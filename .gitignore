@@ -6,3 +6,9 @@
 *.exe
 *.pdb
 *.ilk
+*.suo
+*.db
+*.idb
+*.vcxproj
+*.mp4
+*.h264
